@@ -4,10 +4,12 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+
 }
 
 body {
   font-family: 'Roboto', sans-serif;
+  
 }
 
 /* header */
@@ -22,6 +24,7 @@ body {
   align-items: center;
   height: 70px;
   padding: 15px;
+
 }
 
 .header__left{
@@ -68,6 +71,7 @@ body {
     height: calc(100vh - 70px);
     display: flex;
     overflow: hidden;
+   
 }
 
 /* Sidebar */
